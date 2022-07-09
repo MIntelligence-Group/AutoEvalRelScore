@@ -5,6 +5,9 @@ Implementation for the paper submitted to The 5th IEEE International Conference 
 **[Automatic Evaluation of Machine Generated Feedback For Text and Image Data][1]**<br>
 Pratham Goyal*, Anjali Raj*, [Puneet Kumar](https://puneet-kr.github.io/), and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
+<!--![Overview of Proposed Architecture](architecture.jpg)-->
+<img src="architecture.jpg" width="90%" align="middle">
+
 ## Code Files
 The code files are currently private as the corresponding research paper in MIPR workshop is under review. They will be made publically available soon after the paper is published/accepted for publication.
 
