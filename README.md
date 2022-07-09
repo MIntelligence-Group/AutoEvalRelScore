@@ -8,8 +8,20 @@ Pratham Goyal*, Anjali Raj*, [Puneet Kumar](https://puneet-kr.github.io/), and [
 <!--![Overview of Proposed Architecture](architecture.jpg)-->
 <img src="architecture.jpg" width="90%" align="middle">
 
-## Code Files
-The code files are currently private as the corresponding research paper in MIPR workshop is under review. They will be made publically available soon after the paper is published/accepted for publication.
+Setup and Dependencies
+----------------------
+1. Install Anaconda or Miniconda distribution and create a conda environment with **Python 3.6+**.
+2. Install the requirements using the following command:
+```sh
+pip install -r Requirements.txt
+```
+3. Download [glove.6B.zip][2], unzip and keep in `glove.6B` folder.
+4. Download the required datasets.
+
+[BERT](WWW.ABC.COM)
+Steps to run the Code
+---------------------
+...
 
 Dataset Access
 --------------
@@ -17,3 +29,4 @@ Access to the ‘IIT Roorkee Multimodal Feedback Synthesis (IIT-R MMFeed) datase
 
 [1]:https://mcauis2022.github.io/  
 [2]:https://github.com/MIntelligence-Group/MMFeed/blob/main/Access%20Form%20-%20IIT-R%20MMFeed%20Dataset.pdf
+[3]:WWW.ABC.COM
